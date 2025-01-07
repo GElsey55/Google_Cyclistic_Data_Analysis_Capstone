@@ -122,7 +122,10 @@ decide whether to approve the marketing program you will recommend.
 This case study uses Cyclistics public historical trip data to help
 analyze and identify trends. The data is avaliable on [Motivate
 International Inc.](https://divvy-tripdata.s3.amazonaws.com/index.html)
-under this [license](https://divvybikes.com/data-license-agreement).
+under this [license](https://divvybikes.com/data-license-agreement). If
+you would like to download this case study yourself download the csvs
+labeled 202312-divvy-tripdata to 202411-divvy-tripdata from the Motivate
+International link.
 
 The case study uses the csv files ranging from December 2023 to November
 2024 that were contain the zip files of the Motivate International data
