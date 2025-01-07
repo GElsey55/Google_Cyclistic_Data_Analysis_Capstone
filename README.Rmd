@@ -5,7 +5,7 @@ date: "2025-01-07"
 output: github_document
 ---
 # Introduction
-This R Markdown document is the case study for the Google Data Analytics course done through [Coursera](https://www.coursera.org/). This is the capstone project for said course. This case study was primarily done through R with Microsoft Excel being used briefly.
+This R Markdown document is the case study for the Google Data Analytics course done through [Coursera](https://www.coursera.org/). This is the capstone project for said course. This case study was primarily done through R with Microsoft Excel being used briefly. If you want to work with the rmd file for yourself, see the Prepare section for more information on the data used for this case study.
 
 ## Scenario
 You are a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share
@@ -93,7 +93,7 @@ to approve the marketing program you will recommend.
 
 # Prepare
 
-This case study uses Cyclistics public historical trip data to help analyze and identify trends. The data is avaliable on [Motivate International Inc.](https://divvy-tripdata.s3.amazonaws.com/index.html) under this [license](https://divvybikes.com/data-license-agreement). If you would like to download this case study yourself download the csvs labeled 202312-divvy-tripdata to 202411-divvy-tripdata from the Motivate International link.
+This case study uses Cyclistics public historical trip data to help analyze and identify trends. The data is avaliable on [Motivate International Inc.](https://divvy-tripdata.s3.amazonaws.com/index.html) under this [license](https://divvybikes.com/data-license-agreement). If you would like to download this case study yourself download the csvs labeled 202312-divvy-tripdata to 202411-divvy-tripdata from the Motivate International link to be able to work with the data for yourself.
 
 The case study uses the csv files ranging from December 2023 to November 2024 that were contain the zip files of the Motivate International data base. Microsoft Excel was used to make sure the data was all there. In each of those files were 13 different variables
 
